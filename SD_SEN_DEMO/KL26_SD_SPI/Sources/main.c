@@ -63,7 +63,7 @@ FIL filedest;
 
 #endif
 FIL filedata;
-printf("test for git 2:branch test");
+printf("test for git 3:merge test based on git2");
 void pedometer_test(void);
 
 int main(void) {
