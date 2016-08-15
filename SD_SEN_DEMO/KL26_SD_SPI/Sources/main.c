@@ -545,4 +545,5 @@ void pedometer_test(void) {
 
 		//	U1P_9555_read_config();
 	}
+	printf("test for git 1:my name is fu xiao wen");
 }
